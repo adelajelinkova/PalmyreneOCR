@@ -1,11 +1,11 @@
 # PalmyreneOCR
-Palmyrene Characters Instance Segmentation toolset
-Intelectual property of the Czech University of Life Sciences in Prague
-(c) Adéla Hamplová, (c) David Franc
+Palmyrene Characters Instance Segmentation toolset<br>
+Intelectual property of the Czech University of Life Sciences in Prague<br>
+(c) Adéla Hamplová<br>(c) David Franc<br>
 YOLO training and prediction notebooks originally designed by (c) ultralytics, edited by Adéla Hamplová
-***** READ ME *****
-A) For multi-class instance segmentation follow steps 1-2.
-B) For single-class segmentation, follow steps 1-5.
+<br>***** READ ME *****<br>
+A) For multi-class instance segmentation follow steps 1-2.<br>
+B) For single-class segmentation, follow steps 1-5.<br>
 
 1) Get predictions by predicting with YOLO or Roboflow pre-trained model.
 2) Sort predictions using either sort.py for YOLO or sort_json.py for Roboflow predictions and get the plots and transcripts.
