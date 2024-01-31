@@ -1,0 +1,11 @@
+{'polygon_0.png'}  :  {'ayin'}
+{'polygon_1.png'}  :  {'beth'}
+{'polygon_2.png'}  :  {'teth'}
+{'polygon_3.png'}  :  {'he'}
+{'polygon_4.png'}  :  {'aleph'}
+{'polygon_5.png'}  :  {'zayin'}
+{'polygon_6.png'}  :  {'beth'}
+{'polygon_7.png'}  :  {'resh-daleth'}
+{'polygon_8.png'}  :  {'resh-daleth'}
+{'polygon_9.png'}  :  {'qoph'}
+{'polygon_10.png'}  :  {'he'}

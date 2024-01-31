@@ -1,0 +1,8 @@
+{'polygon_0.png'}  :  {'mem'}
+{'polygon_1.png'}  :  {'qoph'}
+{'polygon_2.png'}  :  {'yodh'}
+{'polygon_3.png'}  :  {'beth'}
+{'polygon_4.png'}  :  {'resh-daleth'}
+{'polygon_5.png'}  :  {'mem'}
+{'polygon_6.png'}  :  {'ayin'}
+{'polygon_7.png'}  :  {'nun'}
