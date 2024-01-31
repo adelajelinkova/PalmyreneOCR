@@ -7,7 +7,7 @@ YOLO training and prediction notebooks originally designed by (c) ultralytics, e
 A) For multi-class instance segmentation follow steps 1-2.<br>
 B) For single-class segmentation, follow steps 1-5.<br>
 
-1) Get predictions by predicting with YOLO or Roboflow pre-trained model.
+1) Get predictions by predicting with a pre-trained model - YOLO (download here on Github) or Roboflow (available online: https://universe.roboflow.com/adela-hamplova/palmyrene-tutzu ).
 2) Sort predictions using either sort.py for YOLO or sort_json.py for Roboflow predictions and get the plots and transcripts.
 3) If the sorted polygons are in .json format, use the json_to_polygon tool to convert them to yolo format.
 4) Use the draw.py tool to create a folder containing letters in 100x100 images in the correct order for classificaiton.
