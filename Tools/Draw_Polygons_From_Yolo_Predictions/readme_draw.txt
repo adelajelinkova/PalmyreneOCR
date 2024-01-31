@@ -1,0 +1,1 @@
+python draw.py path_to_polygons path_to_image
